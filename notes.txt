@@ -1,0 +1,4 @@
+1. Анимация фокуса на input реализована на чистом CSS, с помощью:
+-псевдо-класс :placeholder-shown (поддержка: 97% - https://caniuse.com/?search=%3Aplaceholder-shown)
+-CSS-селектор + (поддержка 86% - https://caniuse.com/?search=CSS%20sibling%20%2B)
+-псевдо-класс :not() (поддержка - 97% - https://caniuse.com/?search=selector%3Anot())
